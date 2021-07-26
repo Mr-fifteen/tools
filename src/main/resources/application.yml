@@ -1,0 +1,11 @@
+#默认启动端口配置
+server:
+  port: 9999
+  tomcat:
+    uri-encoding: utf-8
+
+
+spring:
+  profiles:
+    active: pro
+

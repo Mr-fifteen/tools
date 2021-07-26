@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://192.168.101.152:5433/test
+    username: postgres
+    password: postgres
+
+name : 张三
